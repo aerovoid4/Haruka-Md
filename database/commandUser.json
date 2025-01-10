@@ -1,0 +1,79 @@
+[
+  {
+    "jid": "6285655548594@s.whatsapp.net",
+    "db": [
+      {
+        "nama": "#allmenu",
+        "count": 11
+      },
+      {
+        "nama": "#sticker",
+        "count": 3
+      },
+      {
+        "nama": "#infobot",
+        "count": 2
+      },
+      {
+        "nama": "#cekbandwidth",
+        "count": 1
+      },
+      {
+        "nama": "#smeme",
+        "count": 4
+      },
+      {
+        "nama": "#donate",
+        "count": 2
+      },
+      {
+        "nama": "#addprem",
+        "count": 1
+      },
+      {
+        "nama": "#listpremium",
+        "count": 1
+      },
+      {
+        "nama": "#delprem",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "jid": "6283119115977@s.whatsapp.net",
+    "db": [
+      {
+        "nama": "#allmenu",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "jid": "6288231687901@s.whatsapp.net",
+    "db": [
+      {
+        "nama": "#smeme",
+        "count": 7
+      }
+    ]
+  },
+  {
+    "jid": "6283890931278@s.whatsapp.net",
+    "db": [
+      {
+        "nama": "#afk",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "jid": "6283141802022@s.whatsapp.net",
+    "db": [
+      {
+        "nama": "#afk",
+        "count": 1
+      }
+    ]
+  }
+]
