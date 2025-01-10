@@ -1,0 +1,38 @@
+{
+    "ownerNumber": [
+        "6285655548594@s.whatsapp.net", 
+        "6285863300706@s.whatsapp.net"
+    ],
+    "ownerName": "John Doe",
+    "instagram" : "https://instagram.com/username",
+    "gcwa" : "https://instabio.cc/username",
+    "botName": "Haruka-Md",
+    "footer": "2023 © api.zeeoneofc.my.id",
+    "saluranName": "𝗧𝗲𝗺𝗮𝗻 𝗛𝗶𝗷𝗿𝗮𝗵𝗺𝘂  💊",
+    "saluran": "120363198455471220@newsletter",
+    "sessionName": "session",
+    "fotoDonasi": "./media/qris.jpg",
+    "pathimg": "https://files.catbox.moe/tt29vy.jpg",
+    "BotKey": "YOUR_API_KEY",
+    "XznKey": "f2e23ca807db6f0d",
+    "audioMenu": "./media/menu.mp3",
+    "auto_ai_japri": false,
+    "auto_ai_grup": false,
+    "auto_welcomeMsg": true,
+    "auto_leaveMsg": true, 
+    "antiViewOnce": true,
+    "grupOnly": false,
+    "japriOnly": true, 
+    "antiDelete": false,
+    "autobio": false,
+    "anticall": true,
+    "autorespond": false,
+    "autoblok212": true,
+    "autoread": true,
+    "gamewaktu": 90,
+    "limitCount": 25,
+    "gcount": {
+        "prem": 1000,
+        "user": 15
+    }
+}
